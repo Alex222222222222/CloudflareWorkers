@@ -1,0 +1,8 @@
+name = "gps-log"
+main = "src/index.ts"
+compatibility_date = "2023-03-18"
+
+[[ d1_databases ]]
+binding = "gps"
+database_name = "gps-log"
+database_id = "2ac958d1-2bf6-407b-be58-435e0d41c706"
