@@ -1,0 +1,9 @@
+name = "view-counter"
+main = "src/index.ts"
+compatibility_date = "2023-03-18"
+route = { pattern = "view-counter.workers.huazifan.eu.org", custom_domain = true }
+
+[[ d1_databases ]]
+binding = "view"
+database_name = "view-counter"
+database_id = "90b1e4fb-984d-40dd-9d22-935f296b975b"
