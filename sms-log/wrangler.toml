@@ -1,0 +1,8 @@
+name = "sms-log"
+main = "src/index.ts"
+compatibility_date = "2023-03-18"
+
+[[ d1_databases ]]
+binding = "sms"
+database_name = "sms-log"
+database_id = "38564ce5-d59e-4364-8773-0a749e6488fb"

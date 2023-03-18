@@ -1,0 +1,7 @@
+sms-log/target
+sms-log/**/*.rs.bk
+sms-log/wasm-pack.log
+sms-log/build/
+sms-log/node_modules/
+
+GPS-Log/node_modules
